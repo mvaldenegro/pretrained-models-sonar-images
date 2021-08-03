@@ -4,7 +4,7 @@ This repository contains the public release of pre-trained models for sonar imag
 
 # Pre-Trained Models
 
-- [ResNet20)(https://github.com/mvaldenegro/pretrained-models-sonar-images/releases/tag/resnet20v1.0)
+- [ResNet20](https://github.com/mvaldenegro/pretrained-models-sonar-images/releases/tag/resnet20v1.0)
 - [MobileNets](https://github.com/mvaldenegro/pretrained-models-sonar-images/releases/tag/mobilenetv1.0)
 - [DenseNet121](https://github.com/mvaldenegro/pretrained-models-sonar-images/releases/tag/mobilenetv1.0)
 - [SqueezeNet](https://github.com/mvaldenegro/pretrained-models-sonar-images/releases/tag/squeezenetv1.0)
