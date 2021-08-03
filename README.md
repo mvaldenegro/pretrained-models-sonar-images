@@ -30,7 +30,7 @@ If you find these models useful, you can cite our paper:
       title={Pre-trained Models for Sonar Images},
       author={Valdenegro-Toro, Matias and Preciado-Grijalva, Alan and Wehbe, Bilal},
       booktitle={Global OCEANS 2021},
-      year={2016},
+      year={2021},
       organization={IEEE}
     }
 
