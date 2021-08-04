@@ -20,7 +20,9 @@ These models were trained using Keras 2.3.1, they can be loaded as:
     from keras.models import load_model
     model = load_model('model.hdf5')
 
-The input shape of each model is `(s, s, 1)`, where 's' can be 32, 48, 64, 80, or 96. For example, the biggest models have input shape `(96, 96, 1)`.
+The input shape of each model is `(s, s, 1)`, where `s` can be 32, 48, 64, 80, or 96. For example, the biggest models have input shape `(96, 96, 1)`.
+
+These models were trained using a image mean of 84.5, assuming images in range [0, 255], then this mean should be substracted from every new image to produce features.
 
 # Citation
 
@@ -34,4 +36,4 @@ If you find these models useful, you can cite our paper:
       organization={IEEE}
     }
 
-A preprint version in arXiv will appear soon.
+The preprint version is available on [arXiv](https://arxiv.org/abs/2108.01111).
